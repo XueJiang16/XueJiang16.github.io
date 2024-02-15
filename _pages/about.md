@@ -29,27 +29,27 @@ I am always open to possible collaborations. If you are interested, please do no
 - ``ICLR 2024`` Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs.
 [[paper]](https://github.com/AndrewZhou924)
 [[code]](https://github.com/AndrewZhou924)  
-  **Zhanke Zhou**, Yongqi Zhang, Jiangchao Yao, Quanming Yao, Bo Han.
+  **Zhanke Zhou**, Yongqi Zhang, Jiangchao Yao, Quanming Yao, Bo Han✉️.
 - ``ICLR 2024`` Long-range Neural Atom Learning for Molecular Graphs.
 [[paper]](https://github.com/AndrewZhou924)
 [[code]](https://github.com/AndrewZhou924)  
-  Xuan Li\*, **Zhanke Zhou\***, Jiangchao Yao, Yu Rong, Lu Zhang, Bo Han.
+  Xuan Li\*, **Zhanke Zhou\***, Jiangchao Yao, Yu Rong, Lu Zhang, Bo Han✉️.
 - ``NeurIPS 2023`` Combating Bilateral Edge Noise for Robust Link Prediction.
 [[paper]](https://arxiv.org/pdf/2311.01196.pdf)
 [[code]](https://github.com/tmlr-group/RGIB)  
-  **Zhanke Zhou**, Jiangchao Yao, Jiaxu Liu, Xiawei Guo, Quanming Yao, Li He, Liang Wang, Bo Zheng, Bo Han.
+  **Zhanke Zhou**, Jiangchao Yao✉️, Jiaxu Liu, Xiawei Guo, Quanming Yao, Li He, Liang Wang, Bo Zheng, Bo Han✉️.
 - ``ICML 2023`` On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation.
 [[paper]](https://arxiv.org/pdf/2306.09104.pdf)
 [[code]](https://github.com/tmlr-group/MC-GRA)  
-  **Zhanke Zhou**, Chenyu Zhou, Xuan Li, Jiangchao Yao, Quanming Yao, Bo Han.
+  **Zhanke Zhou**, Chenyu Zhou, Xuan Li, Jiangchao Yao✉️, Quanming Yao, Bo Han✉️.
 - ``KDD 2023`` Adaprop: Learning adaptive propagation for graph neural network based knowledge graph reasoning.
 [[paper]](https://arxiv.org/pdf/2205.15319.pdf)
 [[code]](https://github.com/LARS-research/AdaProp)  
-  Yongqi Zhang\*, **Zhanke Zhou\***, Quanming Yao, Xiaowen Chu, Bo Han.
+  Yongqi Zhang\*, **Zhanke Zhou\***, Quanming Yao✉️, Xiaowen Chu, Bo Han.
 - ``ACL 2022`` KGTuner: Efficient Hyper-parameter Search for Knowledge Graph Learning.
 [[paper]](https://arxiv.org/pdf/2205.02460.pdf)
 [[code]](https://github.com/LARS-research/KGTuner)  
-  Yongqi Zhang, **Zhanke Zhou**, Quanming Yao, Yong Li.
+  Yongqi Zhang, **Zhanke Zhou**, Quanming Yao✉️, Yong Li.
 
 
 # 📖 Educations
@@ -57,14 +57,14 @@ I am always open to possible collaborations. If you are interested, please do no
 - *2017.09 – 2021.06*, Huazhong University of Science and Technology (HUST), B.E. in Electronics and Information Engineering (SeedClass).
 
 # 🎖 Awards
-- *2023.11* Research Excellence Award of HKBU
-- *2021.06* Honorary degree of HUST (Top 2%, highest honour for undergrad)
-- *2021.06* Outstanding Graduate Award of HUST
+- *2023.11*, Research Excellence Award of HKBU
+- *2021.06*, Honorary degree of HUST (Top 2%, highest honour for undergrad)
+- *2021.06*, Outstanding Graduate Award of HUST
 
 # 💬 Talks
-- *2023.11* Seminar on Trustworthy Machine Learning with Imperfect Data @ TechBeat, Online.
+- *2023.11*, Seminar on Trustworthy Machine Learning with Imperfect Data @ TechBeat, Online.
 [[Video]](https://www.bilibili.com/video/BV1cQ4y1x76L/?t=4490)
-- *2023.11* Youth PhD Talk on Trustworthy Machine Learning @ AI Time, Online.
+- *2023.11*, Youth PhD Talk on Trustworthy Machine Learning @ AI Time, Online.
 [[Video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)
 
 # 💻 Services
