@@ -22,8 +22,11 @@ My research interests lie in trustworthy machine learning, particularly in machi
 
 I am always open to possible collaborations. If you are interested, please do not hesitate to [contact me](mailto:cszkzhou@comp.hkbu.edu.hk)!
 
-# 📝 Publications
+# 📖 Educations
+- *2022.09 - present*, Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
+- *2017.09 – 2021.06*, Huazhong University of Science and Technology (HUST), B.E. in Electronics and Information Engineering (SeedClass).
 
+# 📝 Publications
 \* Co-first author, ✉️ Corresponding author.
 
 - ``ICLR 2024`` Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs.
@@ -51,10 +54,16 @@ I am always open to possible collaborations. If you are interested, please do no
 [[code]](https://github.com/LARS-research/KGTuner)  
   Yongqi Zhang, **Zhanke Zhou**, Quanming Yao✉️, Yong Li.
 
+# 📝 Preprints
+- ``Arxiv`` DeepInception: Hypnotize Large Language Model to Be Jailbreaker.
+[[paper]](https://arxiv.org/pdf/2311.03191.pdf)
+[[code]](https://github.com/tmlr-group/DeepInception)  
+Xuan Li\*, **Zhanke Zhou\***, Jianing Zhu\*, Jiangchao Yao, Bo Han.
 
-# 📖 Educations
-- *2022.09 - present*, Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
-- *2017.09 – 2021.06*, Huazhong University of Science and Technology (HUST), B.E. in Electronics and Information Engineering (SeedClass).
+- ``Arxiv`` Understanding Fairness Surrogate Functions in Algorithmic Fairness.
+[[paper]](https://arxiv.org/pdf/2310.11211.pdf)
+[[code]](https://github.com/AndrewZhou924)  
+Wei Yao\*, **Zhanke Zhou\***, Zhicong Li, Bo Han, Yong Liu.
 
 # 🎖 Awards
 - *2023.11*, Research Excellence Award of HKBU
@@ -75,3 +84,10 @@ I am always open to possible collaborations. If you are interested, please do no
 - Teaching Assistant for COMP7250: Machine Learning
 - Teaching Assistant for COMP3015: Data Communications and Networking
 - Teaching Assistant for COMP7070: Advanced Topics in Artificial Intelligence and Machine Learning
+
+# 📖 Experiences
+- *2022.09 - present*, PhD student @HKBU-TMLR Group, advised by Dr. Bo Han.
+- *2022.02 - 2022.09*, Research assistant @HKBU-TMLR Group, advised by Dr. Bo Han and Dr. Jiangchao Yao.
+- *2021.01 - 2022.02*, Research intern @THU-LARS Group, advised by Dr. Quanming Yao and Dr. Yongqi Zhang.
+- *2020.06 - 2020.09*, Research intern @SJTU-MVIG Group, advised by Dr. Cewu Lu and Dr. Yonglu Li.
+- *2018.03 - 2021.01*, Core Member @HUST-Dian Group, advised by Dr. Yayu Gao, Dr. Chengwei Zhang, and Dr. Xiaojun Hei.

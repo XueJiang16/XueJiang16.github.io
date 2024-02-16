@@ -3,20 +3,8 @@ main:
   - title: "About"
     url: "/#about-me"
 
-  - title: "Publications"
-    url: "/#-publications"
-
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Awards"
-    url: "/#-awards"
-
-  - title: "Talks"
-    url: "/#-talks"
-
-  - title: "Services"
-    url: "/#-services"
-
-  - title: "Teaching"
-    url: "/#-teaching"
+  - title: "Publications"
+    url: "/#-publications"
