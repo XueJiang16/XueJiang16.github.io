@@ -58,32 +58,32 @@ I am always open to possible collaborations. If you are interested, please do no
 - ``Arxiv`` DeepInception: Hypnotize Large Language Model to Be Jailbreaker.
 [[paper]](https://arxiv.org/pdf/2311.03191.pdf)
 [[code]](https://github.com/tmlr-group/DeepInception)  
-Xuan Li\*, **Zhanke Zhou\***, Jianing Zhu\*, Jiangchao Yao, Bo Han.
+Xuan Li\*, **Zhanke Zhou\***, Jianing Zhu\*, Jiangchao Yao, Tongliang Liu, Bo Han✉️.
 
 - ``Arxiv`` Understanding Fairness Surrogate Functions in Algorithmic Fairness.
 [[paper]](https://arxiv.org/pdf/2310.11211.pdf)
 [[code]](https://github.com/AndrewZhou924)  
-Wei Yao\*, **Zhanke Zhou\***, Zhicong Li, Bo Han, Yong Liu.
+Wei Yao\*, **Zhanke Zhou\***, Zhicong Li, Bo Han, Yong Liu✉️.
 
 # 🎖 Awards
-- *2023.11*, Research Excellence Award of HKBU
-- *2021.06*, Honorary degree of HUST (Top 2%, highest honour for undergrad)
-- *2021.06*, Outstanding Graduate Award of HUST
+- *2023.11*, Research Excellence Award of HKBU.
+- *2021.06*, Honorary degree of HUST (Top 2%, highest honour for undergrad).
+- *2021.06*, Outstanding Graduate Award of HUST.
 
 # 💬 Talks
-- *2023.11*, Seminar on Trustworthy Machine Learning with Imperfect Data @ TechBeat, Online.
+- *2023.11*, Seminar on Trustworthy Machine Learning with Imperfect Data @TechBeat, Online.
 [[Video]](https://www.bilibili.com/video/BV1cQ4y1x76L/?t=4490)
-- *2023.11*, Youth PhD Talk on Trustworthy Machine Learning @ AI Time, Online.
+- *2023.11*, Youth PhD Talk on Trustworthy Machine Learning @AI Time, Online.
 [[Video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)
 
 # 💻 Services
-- Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS, ACML, AAAI, IJCAI, CIKM, SIGKDD  
-- Journal Reviewer for TMLR, NEUNET, TNNLS
+- Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS, ACML, AAAI, IJCAI, CIKM, SIGKDD.
+- Journal Reviewer for TMLR, NEUNET, TNNLS.
 
 # 🏫 Teaching
-- Teaching Assistant for COMP7250: Machine Learning
-- Teaching Assistant for COMP3015: Data Communications and Networking
-- Teaching Assistant for COMP7070: Advanced Topics in Artificial Intelligence and Machine Learning
+- Teaching Assistant for COMP7250: Machine Learning.
+- Teaching Assistant for COMP3015: Data Communications and Networking.
+- Teaching Assistant for COMP7070: Advanced Topics in Artificial Intelligence and Machine Learning.
 
 # 📖 Experiences
 - *2022.09 - present*, PhD student @HKBU-TMLR Group, advised by Dr. Bo Han.
