@@ -29,13 +29,13 @@ I am always open to possible collaborations. If you are interested, please do no
 # 📝 Publications
 \* Co-first author, ✉️ Corresponding author.
 
-- ``ICLR 2024`` Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs.
-[[paper]](https://github.com/AndrewZhou924)
-[[code]](https://github.com/AndrewZhou924)  
+- ``ICLR 2024`` Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs.  
+<!-- [[paper]](https://github.com/AndrewZhou924) -->
+<!-- [[code]](https://github.com/AndrewZhou924)   -->
   **Zhanke Zhou**, Yongqi Zhang, Jiangchao Yao, Quanming Yao, Bo Han✉️.
-- ``ICLR 2024`` Long-range Neural Atom Learning for Molecular Graphs.
-[[paper]](https://github.com/AndrewZhou924)
-[[code]](https://github.com/AndrewZhou924)  
+- ``ICLR 2024`` Long-range Neural Atom Learning for Molecular Graphs.  
+<!-- [[paper]](https://github.com/AndrewZhou924) -->
+<!-- [[code]](https://github.com/AndrewZhou924)   -->
   Xuan Li\*, **Zhanke Zhou\***, Jiangchao Yao, Yu Rong, Lu Zhang, Bo Han✉️.
 - ``NeurIPS 2023`` Combating Bilateral Edge Noise for Robust Link Prediction.
 [[paper]](https://arxiv.org/pdf/2311.01196.pdf)
@@ -61,8 +61,8 @@ I am always open to possible collaborations. If you are interested, please do no
 Xuan Li\*, **Zhanke Zhou\***, Jianing Zhu\*, Jiangchao Yao, Tongliang Liu, Bo Han✉️.
 
 - ``Arxiv`` Understanding Fairness Surrogate Functions in Algorithmic Fairness.
-[[paper]](https://arxiv.org/pdf/2310.11211.pdf)
-[[code]](https://github.com/AndrewZhou924)  
+[[paper]](https://arxiv.org/pdf/2310.11211.pdf)  
+<!-- [[code]](https://github.com/AndrewZhou924)   -->
 Wei Yao\*, **Zhanke Zhou\***, Zhicong Li, Bo Han, Yong Liu✉️.
 
 # 🎖 Awards
