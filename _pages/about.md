@@ -37,27 +37,49 @@ I am always open to possible collaborations. If you are interested, please do no
 <!-- [[paper]](https://github.com/AndrewZhou924) -->
 <!-- [[code]](https://github.com/AndrewZhou924)   -->
   Xuan Li\*, **Zhanke Zhou\***, Jiangchao Yao, Yu Rong, Lu Zhang, Bo Han✉️.
-- ``NeurIPS 2023`` Combating Bilateral Edge Noise for Robust Link Prediction.
+- ``NeurIPS 2023`` Combating Bilateral Edge Noise for Robust Link Prediction.  
 [[paper]](https://arxiv.org/pdf/2311.01196.pdf)
-[[code]](https://github.com/tmlr-group/RGIB)  
+[[code]](https://github.com/tmlr-group/RGIB)
+[[slides]](/_pages/data/slides-RGIB.pdf)
+[[poster]](/_pages/data/poster-RGIB.pdf)
+[[EN-video]](https://slideslive.com/39010502/combating-bilateral-edge-noise-for-robust-link-prediction?ref=search-presentations)
+[[CN-video]](https://www.bilibili.com/video/BV1cQ4y1x76L/?t=4490)
+[[CN-blog]](https://mp.weixin.qq.com/s/0GypXaICRLrJFywLpdW8bA)  
   **Zhanke Zhou**, Jiangchao Yao✉️, Jiaxu Liu, Xiawei Guo, Quanming Yao, Li He, Liang Wang, Bo Zheng, Bo Han✉️.
-- ``ICML 2023`` On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation.
+- ``ICML 2023`` On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation.  
 [[paper]](https://arxiv.org/pdf/2306.09104.pdf)
-[[code]](https://github.com/tmlr-group/MC-GRA)  
+[[code]](https://github.com/tmlr-group/MC-GRA)
+[[slides]](/_pages/data/slides-GRA.pdf)
+[[poster]](/_pages/data/poster-GRA.pdf)
+[[EN-video]](https://slideslive.com/39003755/on-strengthening-and-defending-graph-reconstruction-attack-with-markov-chain-approximation?ref=search-presentations)
+[[CN-video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)
+[[CN-blog]](https://mp.weixin.qq.com/s/hKSEMuNx6-g5SXfLjveDlw)  
   **Zhanke Zhou**, Chenyu Zhou, Xuan Li, Jiangchao Yao✉️, Quanming Yao, Bo Han✉️.
-- ``KDD 2023`` Adaprop: Learning adaptive propagation for graph neural network based knowledge graph reasoning.
+- ``KDD 2023`` Adaprop: Learning adaptive propagation for graph neural network based knowledge graph reasoning.  
 [[paper]](https://arxiv.org/pdf/2205.15319.pdf)
-[[code]](https://github.com/LARS-research/AdaProp)  
+[[code]](https://github.com/LARS-research/AdaProp)
+[[slides]](/_pages/data/slides-AdaProp.pdf)
+[[poster]](/_pages/data/poster-AdaProp.pdf)
+[[EN-video]](https://www.youtube.com/watch?v=4YggNGOcTOk)  
   Yongqi Zhang\*, **Zhanke Zhou\***, Quanming Yao✉️, Xiaowen Chu, Bo Han.
-- ``ACL 2022`` KGTuner: Efficient Hyper-parameter Search for Knowledge Graph Learning.
+- ``ACL 2022`` KGTuner: Efficient Hyper-parameter Search for Knowledge Graph Learning.  
 [[paper]](https://arxiv.org/pdf/2205.02460.pdf)
-[[code]](https://github.com/LARS-research/KGTuner)  
+[[code]](https://github.com/LARS-research/KGTuner)
+[[video]](https://www.youtube.com/watch?v=wSbJKPtUNjo/&t=1h52m)
+[[slides]](/_pages/data/slides-KGTuner.pdf)
+[[poster]](/_pages/data/)
+[[CN-blog]](https://mp.weixin.qq.com/s/Pt9j7Zm0ujVQHzt650zYvA)  
   Yongqi Zhang, **Zhanke Zhou**, Quanming Yao✉️, Yong Li.
 
 # 📝 Preprints
-- ``Arxiv`` DeepInception: Hypnotize Large Language Model to Be Jailbreaker.
+- ``Arxiv`` DeepInception: Hypnotize Large Language Model to Be Jailbreaker.  
 [[paper]](https://arxiv.org/pdf/2311.03191.pdf)
-[[code]](https://github.com/tmlr-group/DeepInception)  
+[[code]](https://github.com/tmlr-group/DeepInception)
+[[website]](https://deepinception.github.io/)
+[[slides]](./_pages/data/slides-DeepInception.pdf)
+[[twitter]](https://twitter.com/Jianing9810/status/1721894260231098812)
+[[CN-video]](https://www.bilibili.com/video/BV16N4y1i7Rw/?t=2477)
+[[CN-blog]](https://mp.weixin.qq.com/s/PufSBheCrJsjzkC4LD20Nw)  
 Xuan Li\*, **Zhanke Zhou\***, Jianing Zhu\*, Jiangchao Yao, Tongliang Liu, Bo Han✉️.
 
 - ``Arxiv`` Understanding Fairness Surrogate Functions in Algorithmic Fairness.
