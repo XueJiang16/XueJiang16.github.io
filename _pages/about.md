@@ -67,7 +67,7 @@ I am always open to possible collaborations. If you are interested, please do no
 [[code]](https://github.com/LARS-research/KGTuner)
 [[video]](https://www.youtube.com/watch?v=wSbJKPtUNjo/&t=1h52m)
 [[slides]](/_pages/data/slides-KGTuner.pdf)
-[[poster]](/_pages/data/)
+[[poster]](/_pages/data/poster-KGTuner.pdf)
 [[CN-blog]](https://mp.weixin.qq.com/s/Pt9j7Zm0ujVQHzt650zYvA)  
   Yongqi Zhang, **Zhanke Zhou**, Quanming Yao✉️, Yong Li.
 
