@@ -55,7 +55,7 @@ I am always open to possible collaborations. If you are interested, please do no
 [[CN-video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)
 [[CN-blog]](https://mp.weixin.qq.com/s/hKSEMuNx6-g5SXfLjveDlw)  
   **Zhanke Zhou**, Chenyu Zhou, Xuan Li, Jiangchao Yao✉️, Quanming Yao, Bo Han✉️.
-- ``KDD 2023`` Adaprop: Learning adaptive propagation for graph neural network based knowledge graph reasoning.  
+- ``KDD 2023`` Adaprop: Learning Adaptive Propagation for Graph Neural Network Based Knowledge Graph Reasoning.  
 [[paper]](https://arxiv.org/pdf/2205.15319.pdf)
 [[code]](https://github.com/LARS-research/AdaProp)
 [[slides]](/_pages/data/slides-AdaProp.pdf)
@@ -65,9 +65,9 @@ I am always open to possible collaborations. If you are interested, please do no
 - ``ACL 2022`` KGTuner: Efficient Hyper-parameter Search for Knowledge Graph Learning.  
 [[paper]](https://arxiv.org/pdf/2205.02460.pdf)
 [[code]](https://github.com/LARS-research/KGTuner)
-[[video]](https://www.youtube.com/watch?v=wSbJKPtUNjo/&t=1h52m)
 [[slides]](/_pages/data/slides-KGTuner.pdf)
 [[poster]](/_pages/data/poster-KGTuner.pdf)
+[[EN-video]](https://www.youtube.com/watch?v=wSbJKPtUNjo/&t=1h52m)
 [[CN-blog]](https://mp.weixin.qq.com/s/Pt9j7Zm0ujVQHzt650zYvA)  
   Yongqi Zhang, **Zhanke Zhou**, Quanming Yao✉️, Yong Li.
 
