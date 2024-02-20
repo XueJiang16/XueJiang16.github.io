@@ -20,7 +20,10 @@ Hi there, I am Zhanke Zhou, currently a second-year Ph.D. student at Trustworthy
 
 My research interests lie in trustworthy machine learning, particularly in machine reasoning with structure data and foundation models, as well as its applications in scientific discoveries, e.g., math, biology, and chemistry.
 
-I am always open to possible collaborations. If you are interested, please do not hesitate to [contact me](mailto:cszkzhou@comp.hkbu.edu.hk)!
+<!-- I am always open to possible collaborations. If you are interested, please do not hesitate to [contact me](mailto:cszkzhou@comp.hkbu.edu.hk)! -->
+
+*Feel free to [email me](mailto:cszkzhou@comp.hkbu.edu.hk) for research, collaborations, or a casual chat. Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).*
+
 
 # 📖 Educations
 - *2022.09 - present*, Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
