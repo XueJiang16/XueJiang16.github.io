@@ -63,7 +63,8 @@ My research interests lie in trustworthy machine learning, particularly in machi
 [[code]](https://github.com/LARS-research/AdaProp)
 [[slides]](/_pages/data/slides-AdaProp.pdf)
 [[poster]](/_pages/data/poster-AdaProp.pdf)
-[[EN-video]](https://www.youtube.com/watch?v=4YggNGOcTOk)  
+[[EN-video]](https://www.youtube.com/watch?v=4YggNGOcTOk)
+[[CN-video]](https://www.bilibili.com/video/BV1EP411p7fP/?t=2078)  
   Yongqi Zhang\*, **Zhanke Zhou\***, Quanming Yao✉️, Xiaowen Chu, Bo Han.
 - ``ACL 2022`` KGTuner: Efficient Hyper-parameter Search for Knowledge Graph Learning.  
 [[paper]](https://arxiv.org/pdf/2205.02460.pdf)
