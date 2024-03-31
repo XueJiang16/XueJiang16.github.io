@@ -18,11 +18,9 @@ redirect_from:
 
 Hi there, I am Zhanke Zhou, currently a second-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in the Department of Computer Science, Hong Kong Baptist University, advised by Dr. [Bo Han](https://bhanml.github.io/), and work closely with Dr. [Quanming Yao](https://lars-group.github.io/).
 
-My research interests lie in trustworthy machine learning, particularly in machine reasoning with structure data and foundation models, as well as its applications in scientific discoveries, e.g., math, biology, and chemistry.
+My research interests lie in **trustworthy machine reasoning** with structural data and foundation models for **solving complex problems and boosting scientific discoveries** (e.g., math, biology, and chemistry).
 
-<!-- I am always open to possible collaborations. If you are interested, please do not hesitate to [contact me](mailto:cszkzhou@comp.hkbu.edu.hk)! -->
-
-*Feel free to [email me](mailto:cszkzhou@comp.hkbu.edu.hk) for research, collaborations, or a casual chat. Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).*
+*Please feel free to [email me](mailto:cszkzhou@comp.hkbu.edu.hk) for research, collaborations, or a casual chat. Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).*
 
 
 # 📖 Educations
@@ -32,13 +30,13 @@ My research interests lie in trustworthy machine learning, particularly in machi
 # 📝 Publications
 \* Co-first author, ✉️ Corresponding author.
 
-- ``ICLR 2024`` Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs.  
-<!-- [[paper]](https://github.com/AndrewZhou924) -->
-<!-- [[code]](https://github.com/AndrewZhou924)   -->
+- ``ICLR 2024`` Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs.
+[[paper]](https://arxiv.org/pdf/2403.10231.pdf)
+[[code]](https://github.com/tmlr-group/one-shot-subgraph)  
   **Zhanke Zhou**, Yongqi Zhang, Jiangchao Yao, Quanming Yao, Bo Han✉️.
-- ``ICLR 2024`` Long-range Neural Atom Learning for Molecular Graphs.  
-<!-- [[paper]](https://github.com/AndrewZhou924) -->
-<!-- [[code]](https://github.com/AndrewZhou924)   -->
+- ``ICLR 2024`` Neural Atoms: Propagating Long-range Interaction in Molecular Graphs through Efficient Communication Channel.
+[[paper]](https://arxiv.org/pdf/2311.01276.pdf)
+[[code]](https://github.com/tmlr-group/NeuralAtom)  
   Xuan Li\*, **Zhanke Zhou\***, Jiangchao Yao, Yu Rong, Lu Zhang, Bo Han✉️.
 - ``NeurIPS 2023`` Combating Bilateral Edge Noise for Robust Link Prediction.  
 [[paper]](https://arxiv.org/pdf/2311.01196.pdf)
@@ -88,7 +86,6 @@ Xuan Li\*, **Zhanke Zhou\***, Jianing Zhu\*, Jiangchao Yao, Tongliang Liu, Bo Ha
 
 - ``Arxiv`` Understanding Fairness Surrogate Functions in Algorithmic Fairness.
 [[paper]](https://arxiv.org/pdf/2310.11211.pdf)  
-<!-- [[code]](https://github.com/AndrewZhou924)   -->
 Wei Yao\*, **Zhanke Zhou\***, Zhicong Li, Bo Han, Yong Liu✉️.
 
 # 🎖 Awards
