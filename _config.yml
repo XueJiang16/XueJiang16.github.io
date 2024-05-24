@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Hongduan Tian"
 description              : "Focus on Knowledge Transfer and Agent Interaction."
-repository               : "HongduanTian/htian.github.io"
+repository               : "htian.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
