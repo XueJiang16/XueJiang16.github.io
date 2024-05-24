@@ -72,7 +72,7 @@ TODO -->
 - Journal Reviewer for TMLR, NEUNET, TNNLS, TPAMI.
 
 # 🏫 Teaching
-- Teaching Assistant for COMP7940: Cloud Computing.
+- *2024 Spring*, TA for COMP7940: Cloud Computing.
 
 # 📖 Experiences
 - *2022.09 - present*, PhD student @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han.
