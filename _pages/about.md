@@ -16,91 +16,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Zhanke Zhou, a second-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in the Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/).
+Hi, I am Hongduan Tian, a first-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/) and [Dr. Feng Liu](https://fengliu90.github.io/index.html).
 
-My research interests lie in **trustworthy machine reasoning** with structural data and foundation models for **solving complex problems and boosting scientific discoveries** (e.g., math, biology, and chemistry).
+Before that, I got my master degree from Nanjing University of Information Science and Technology (NUIST) and fortunately supervised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/home?authuser=0) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
 
-*Please feel free to [email me](mailto:cszkzhou@comp.hkbu.edu.hk) for research, collaborations, or a casual chat.* 
+My research interests mainly include **few-shot/meta learning, transfer learning, and LLM Agents**.
+
+*Please feel free to [email me](mailto:cshdtian@comp.hkbu.edu.hk) for research, collaborations, or a casual chat.* 
 
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
 
 
 # 📖 Educations
-- *2022.09 - present*, Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
-- *2017.09 – 2021.06*, Huazhong University of Science and Technology (HUST), B.E. in Electronics 
-and Information Engineering (SeedClass).
+- *2023.09 - present*, Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
+- *2018.09 – 2021.06*, Nanjing University of Information Science and Technology (NUIST), M.E. in Control Enginerring.
+- *2014.09 - 2018.06*, Nanjing University of Information Science and Technology (NUIST), B.E. in Automation.
 
 <!-- # 📝 Featured Publications
 TODO -->
 
-# 📝 Selected Publications
-\* Co-first author, ✉️ Corresponding author.
+# 📝 Publications
+✉️ Corresponding author.
 
-<!-- - ``ICML 2024`` Envisioning Outlier Exposure for Out-of-distribution Detection.  
-  Chentao Cao, Zhun Zhong, **Zhanke Zhou**, Yang Liu, Tongliang Liu, Bo Han✉️. -->
-<!-- - ``Arxiv 2024`` DeepInception: Hypnotize Large Language Model to Be Jailbreaker.  
-[[paper]](https://arxiv.org/pdf/2311.03191.pdf)
-[[code]](https://github.com/tmlr-group/DeepInception)
-[[website]](https://deepinception.github.io/)
-[[slides]](./_pages/data/slides-DeepInception.pdf)
-[[twitter]](https://twitter.com/Jianing9810/status/1721894260231098812)
-[[CN-video]](https://www.bilibili.com/video/BV16N4y1i7Rw/?t=2477)
-[[CN-blog]](https://mp.weixin.qq.com/s/PufSBheCrJsjzkC4LD20Nw)  
-Xuan Li\*, **Zhanke Zhou\***, Jianing Zhu\*, Jiangchao Yao, Tongliang Liu, Bo Han✉️. -->
-- ``ICLR 2024`` Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs.  
-[[paper]](https://arxiv.org/pdf/2403.10231.pdf)
-[[code]](https://github.com/tmlr-group/one-shot-subgraph)
-[[slides]](/_pages/data/slides-one-shot-subgraph.pdf)
-[[poster]](/_pages/data/poster-one-shot-subgraph.pdf)
-[[EN-video]](https://recorder-v3.slideslive.com/?share=92165&s=396ea382-bc2a-451b-8ee0-111e94581a7b)  
-  **Zhanke Zhou**, Yongqi Zhang, Jiangchao Yao, Quanming Yao, Bo Han✉️.
-- ``ICLR 2024`` Neural Atoms: Propagating Long-range Interaction in Molecular Graphs through Efficient Communication Channel.  
-[[paper]](https://arxiv.org/pdf/2311.01276.pdf)
-[[code]](https://github.com/tmlr-group/NeuralAtom)
-[[slides]](/_pages/data/slides-neural-atoms.pdf)
+- [![Static Badge](https://img.shields.io/badge/Conference-ICML'24-blue)]() **Cross-domain Few-shot Classification via Maximizing Optimized Kernel Dependence**.  
+[[paper]]()
+[[code]](https://github.com/HongduanTian/MOKD)
+[[slides]]()
+[[poster]]()
+[[EN-video]]()  
+  **Hongduan Tian**, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han✉️.
+- [![Static Badge](https://img.shields.io/badge/Conference-ECCV'20-blue)]() **Meta-learning with network pruning**.  
+[[paper]](https://arxiv.org/pdf/2007.03219)
+[[code]](https://github.com/HongduanTian/Dense-Sparse-Dense-Reptile)
+<!--[[slides]](/_pages/data/slides-neural-atoms.pdf)
 [[poster]](/_pages/data/poster-neural-atoms.pdf)
 [[EN-video]](https://recorder-v3.slideslive.com/?share=92308&s=8e966150-4ba4-41b7-97d3-8ed0c1a1cd0c)
-[[CN-video]](https://www.bilibili.com/video/BV1qH4y1L7mb/?share_source=copy_web&vd_source=65ec14228a98f635bf0406f14c7f8660&t=5342)  
-  Xuan Li\*, **Zhanke Zhou\***, Jiangchao Yao, Yu Rong, Lu Zhang, Bo Han✉️.
-<!-- - ``TMLR 2024`` Understanding Fairness Surrogate Functions in Algorithmic Fairness.
-[[paper]](https://arxiv.org/pdf/2310.11211.pdf)  
-Wei Yao\*, **Zhanke Zhou\***, Zhicong Li, Bo Han, Yong Liu✉️. -->
-- ``NeurIPS 2023`` Combating Bilateral Edge Noise for Robust Link Prediction.  
-[[paper]](https://arxiv.org/pdf/2311.01196.pdf)
-[[code]](https://github.com/tmlr-group/RGIB)
-[[slides]](/_pages/data/slides-RGIB.pdf)
-[[poster]](/_pages/data/poster-RGIB.pdf)
-[[EN-video]](https://slideslive.com/39010502/combating-bilateral-edge-noise-for-robust-link-prediction?ref=search-presentations)
-[[CN-video]](https://www.bilibili.com/video/BV1cQ4y1x76L/?t=4490)
-[[CN-blog]](https://mp.weixin.qq.com/s/0GypXaICRLrJFywLpdW8bA)  
-  **Zhanke Zhou**, Jiangchao Yao✉️, Jiaxu Liu, Xiawei Guo, Quanming Yao, Li He, Liang Wang, Bo Zheng, Bo Han✉️.
-- ``ICML 2023`` On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation.  
-[[paper]](https://arxiv.org/pdf/2306.09104.pdf)
-[[code]](https://github.com/tmlr-group/MC-GRA)
-[[slides]](/_pages/data/slides-GRA.pdf)
-[[poster]](/_pages/data/poster-GRA.pdf)
-[[EN-video]](https://slideslive.com/39003755/on-strengthening-and-defending-graph-reconstruction-attack-with-markov-chain-approximation?ref=search-presentations)
-[[CN-video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)
-[[CN-blog]](https://mp.weixin.qq.com/s/hKSEMuNx6-g5SXfLjveDlw)  
-  **Zhanke Zhou**, Chenyu Zhou, Xuan Li, Jiangchao Yao✉️, Quanming Yao, Bo Han✉️.
-- ``KDD 2023`` Adaprop: Learning Adaptive Propagation for Graph Neural Network Based Knowledge Graph Reasoning.  
-[[paper]](https://arxiv.org/pdf/2205.15319.pdf)
-[[code]](https://github.com/LARS-research/AdaProp)
-[[slides]](/_pages/data/slides-AdaProp.pdf)
-[[poster]](/_pages/data/poster-AdaProp.pdf)
-[[EN-video]](https://www.youtube.com/watch?v=4YggNGOcTOk)
-[[CN-video]](https://www.bilibili.com/video/BV1EP411p7fP/?t=2078)  
-  Yongqi Zhang\*, **Zhanke Zhou\***, Quanming Yao✉️, Xiaowen Chu, Bo Han.
-<!-- - ``ACL 2022`` KGTuner: Efficient Hyper-parameter Search for Knowledge Graph Learning.  
-[[paper]](https://arxiv.org/pdf/2205.02460.pdf)
-[[code]](https://github.com/LARS-research/KGTuner)
-[[slides]](/_pages/data/slides-KGTuner.pdf)
-[[poster]](/_pages/data/poster-KGTuner.pdf)
-[[EN-video]](https://www.youtube.com/watch?v=wSbJKPtUNjo/&t=1h52m)
-[[CN-blog]](https://mp.weixin.qq.com/s/Pt9j7Zm0ujVQHzt650zYvA)  
-  Yongqi Zhang, **Zhanke Zhou**, Quanming Yao✉️, Yong Li. -->
+[[CN-video]](https://www.bilibili.com/video/BV1qH4y1L7mb/?share_source=copy_web&vd_source=65ec14228a98f635bf0406f14c7f8660&t=5342)-->  
+  **Hongduan Tian**✉️, Bo Liu, Xiao-Tong Yuan✉️, Qingshan Liu.
+ 
 
-# 🎖 Awards
+
+<!--# 🎖 Awards
 - *2023.11*, Research Excellence Award of HKBU.
 - *2021.06*, Honorary degree of HUST (Top 2%, highest honour for undergrad).
 - *2021.06*, Outstanding Graduate Award of HUST.
@@ -109,23 +65,20 @@ Wei Yao\*, **Zhanke Zhou\***, Zhicong Li, Bo Han, Yong Liu✉️. -->
 - *2023.11*, Seminar on Trustworthy Machine Learning with Imperfect Data @TechBeat, Online.
 [[Video]](https://www.bilibili.com/video/BV1cQ4y1x76L/?t=4490)
 - *2023.11*, Youth PhD Talk on Trustworthy Machine Learning @AI Time, Online.
-[[Video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)
+[[Video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)-->
 
 # 💻 Services
-- Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS, ACML, AAAI, IJCAI, COLM, CIKM, SIGKDD.
-- Journal Reviewer for TMLR, NEUNET, TNNLS.
+- Conference Reviewer for ICML, NeurIPS, ICLR.
+- Journal Reviewer for TMLR, NEUNET, TNNLS, TPAMI.
 
 # 🏫 Teaching
-- Teaching Assistant for COMP7250: Machine Learning.
-- Teaching Assistant for COMP3015: Data Communications and Networking.
-- Teaching Assistant for COMP7070: Advanced Topics in Artificial Intelligence and Machine Learning.
+- Teaching Assistant for COMP7940: Cloud Computing.
 
 # 📖 Experiences
 - *2022.09 - present*, PhD student @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han.
-- *2022.02 - 2022.09*, Research assistant @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han and Dr. Jiangchao Yao.
-- *2021.01 - 2022.02*, Research intern @THU-[LARS Group](https://lars-group.github.io/pages/group.html), advised by Dr. Quanming Yao and Dr. Yongqi Zhang.
-- *2020.06 - 2020.09*, Research intern @SJTU-[MVIG Group](https://mvig.org/), advised by Dr. Cewu Lu and Dr. Yonglu Li.
-- *2018.03 - 2021.01*, Core Member @HUST-[Dian Group](https://dian.org.cn/), advised by Dr. Yayu Gao, Dr. Chengwei Zhang, and Dr. Xiaojun Hei.
+- *2022.07 - Present*, Research Intern @NVIDIA [NVAITC](https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research), advised by Charles Cheung.
+- *2022.07 - 2023.05*, Research intern @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han and Dr. Jiangchao Yao.
+- *2021.07 - 2022.07*, Algorithm Engineer @ZTE Nanjing Research and Development Center.
 
   
 <!-- <div align=center> -->
