@@ -38,7 +38,7 @@ TODO -->
 # 📝 Publications
 ✉️ Corresponding author.
 
-- [![Static Badge](https://img.shields.io/badge/Conference-ICML'24-blue)]() **Cross-domain Few-shot Classification via Maximizing Optimized Kernel Dependence**.  
+- [![Static Badge](https://img.shields.io/badge/Conference-ICML'24-blue)]() **MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**.  
 [[paper]]()
 [[code]](https://github.com/HongduanTian/MOKD)
 [[slides]]()
