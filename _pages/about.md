@@ -44,7 +44,7 @@ TODO -->
 - [![Static Badge](https://img.shields.io/badge/Conference-ICML'24-blue)]() **MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**.  
 [[paper]](https://arxiv.org/pdf/2405.18786)
 [[code]](https://github.com/HongduanTian/MOKD)
-[[slides]]()
+[[slides]](https://drive.google.com/file/d/1eK1rcnkSWCh8Wy95J6SNqq5NkXMB0lqd/view?usp=sharing)
 [[poster]]()
 [[EN-video]]()  
   **Hongduan Tian**, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han✉️.
