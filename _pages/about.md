@@ -46,7 +46,7 @@ TODO -->
 [[code]](https://github.com/HongduanTian/MOKD)
 [[slides]](https://drive.google.com/file/d/1tsftBBdy6YfqIeap_QJ-kh1Ut7sqmdRb/view?usp=sharing)
 [[poster]]()
-[[EN-video]]()  
+[[CN-video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)  
   **Hongduan Tian**, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han✉️.
 - [![Static Badge](https://img.shields.io/badge/Conference-ECCV'20-blue)]() **Meta-learning with network pruning**.  
 [[paper]](https://arxiv.org/pdf/2007.03219)
@@ -62,12 +62,10 @@ TODO -->
 <!--# 🎖 Awards
 - *2023.11*, Research Excellence Award of HKBU.
 - *2021.06*, Honorary degree of HUST (Top 2%, highest honour for undergrad).
-- *2021.06*, Outstanding Graduate Award of HUST.
+- *2021.06*, Outstanding Graduate Award of HUST.-->
 
-# 💬 Talks
-- *2023.11*, Seminar on Trustworthy Machine Learning with Imperfect Data @TechBeat, Online.
-[[Video]](https://www.bilibili.com/video/BV1cQ4y1x76L/?t=4490)
-- *2023.11*, Youth PhD Talk on Trustworthy Machine Learning @AI Time, Online.
+<!--💬 Talks
+- *2024.06*, Youth PhD Talk on Trustworthy Machine Learning @AI Time, Online.
 [[Video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)-->
 
 # 💻 Services
