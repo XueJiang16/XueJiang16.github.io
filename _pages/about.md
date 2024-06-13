@@ -29,7 +29,6 @@ My research interests mainly include **few-shot/meta learning, transfer learning
 # 📣 News
 - **$\frak{2024.05}$**: One paper is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/33444).
 
-
 # 📖 Educations
 - *2023.09 - present*, Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
 - *2018.09 – 2021.06*, Nanjing University of Information Science and Technology (NUIST), M.E. in Control Enginerring.
@@ -41,14 +40,33 @@ TODO -->
 # 📝 Publications
 ✉️ Corresponding author.
 
-- [![Static Badge](https://img.shields.io/badge/Conference-ICML'24-blue)]() **MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**.  
+<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/mokd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[![Static Badge](https://img.shields.io/badge/Conference-ICML'24-blue)]() **MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**.  
 [[paper]](https://arxiv.org/pdf/2405.18786)
 [[code]](https://github.com/HongduanTian/MOKD)
 [[slides]](https://drive.google.com/file/d/1tsftBBdy6YfqIeap_QJ-kh1Ut7sqmdRb/view?usp=sharing)
 [[poster]]()
 [[CN-video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)  
   **Hongduan Tian**, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han✉️.
-- [![Static Badge](https://img.shields.io/badge/Conference-ECCV'20-blue)]() **Meta-learning with network pruning**.  
+<details>
+<summary>Quick Introduction</summary>
+ In cross-domain few-shot classification, nearest centroid classifier (NCC) aims to learn representations to construct a metric space where few-shot classification can be performed by measuring the similarities between samples and the prototype of each class. An intuition behind NCC is that each sample is pulled closer to the class centroid it belongs to while pushed away from those of other classes. However, in this paper, we find that there exist high similarities between NCC-learned representations of two samples from different classes.<br><br>
+
+ In order to address this problem, we propose a bi-level optimization framework, maximizing optimized kernel dependence (MOKD) to learn a set of class-specific representations that match the cluster structures indicated by labeled data of the given task. 
+ Specifically, MOKD first optimizes the kernel adopted in Hilbert-Schmidt independence criterion (HSIC) to obtain the optimized kernel HSIC (opt-HSIC) that can capture the dependence more precisely. Then, an optimization problem regarding the opt-HSIC is addressed to simultaneously maximize the dependence between representations and labels and minimize the dependence among all samples.<br><br> 
+
+ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve better generalization performance on unseen domains in most cases but also learn better data representation clusters.
+</details>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/meta_prune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[![Static Badge](https://img.shields.io/badge/Conference-ECCV'20-blue)]() **Meta-learning with network pruning**.  
 [[paper]](https://arxiv.org/pdf/2007.03219)
 [[code]](https://github.com/HongduanTian/Dense-Sparse-Dense-Reptile)
 <!--[[slides]](/_pages/data/slides-neural-atoms.pdf)
@@ -56,7 +74,16 @@ TODO -->
 [[EN-video]](https://recorder-v3.slideslive.com/?share=92308&s=8e966150-4ba4-41b7-97d3-8ed0c1a1cd0c)
 [[CN-video]](https://www.bilibili.com/video/BV1qH4y1L7mb/?share_source=copy_web&vd_source=65ec14228a98f635bf0406f14c7f8660&t=5342)-->  
   **Hongduan Tian**✉️, Bo Liu, Xiao-Tong Yuan✉️, Qingshan Liu.
+ <details>
+<summary>Quick Introduction</summary>
+ Meta-learning is a powerful paradigm for few-shot learning. Although with remarkable success witnessed in many applications, the existing optimization based meta-learning models with over-parameterized neural networks have been evidenced to ovetfit on training tasks.<br><br> 
  
+ To remedy this deficiency, we propose a network pruning based meta-learning approach for overfitting reduction via explicitly controlling the capacity of network. A uniform concentration analysis reveals the benefit of network capacity constraint for reducing generalization gap of the proposed meta-learner. We have implemented our approach on top of Reptile assembled with two network pruning routines: Dense-Sparse-Dense (DSD) and Iterative Hard Thresholding (IHT).<br><br>
+ 
+ Extensive experimental results on benchmark datasets with different over-parameterized deep networks demonstrate that our method not only effectively alleviates meta-overfitting but also in many cases improves the overall generalization performance when applied to few-shot classification tasks.
+</details>
+</div>
+</div>
 
 
 <!--# 🎖 Awards
