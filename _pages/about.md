@@ -16,23 +16,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Hongduan Tian, a first-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/) and [Dr. Feng Liu](https://fengliu90.github.io/index.html).
+Hi, I am Xue Jiang, a joint Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/) and Southern University of Science and Technology, advised by [Prof. Feng Zheng](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=1&lang=en). In TMLR Group, I am also co-supervised by [Dr. Feng Liu](https://fengliu90.github.io/index.html) and work closely with [Dr. Zhen Fang](https://fang-zhen.github.io/).
 
-Before that, I got my master degree from Nanjing University of Information Science and Technology (NUIST) and fortunately supervised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/home?authuser=0) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
+My research interests mainly include **out-of-distribution detection, object hallucination in MLLM, and saftety in diffusion models**.
 
-My research interests mainly include **few-shot/meta learning, transfer learning, and LLM Agents**.
-
-*Please feel free to [email me](mailto:cshdtian@comp.hkbu.edu.hk) for research, collaborations, or a casual chat.* 
+*Please feel free to [email me](mailto:csxjiang@comp.hkbu.edu.hk) for research, collaborations, or a casual chat.* 
 
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
 
-# 📣 News
-- **$\frak{2024.05}$**: One paper is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/33444).
+<!-- # 📣 News
+- **$\frak{2024.05}$**: One paper is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/33444). -->
 
 # 📖 Educations
-- *2023.09 - present*, Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
-- *2018.09 – 2021.06*, Nanjing University of Information Science and Technology (NUIST), M.E. in Control Enginerring.
-- *2014.09 - 2018.06*, Nanjing University of Information Science and Technology (NUIST), B.E. in Automation.
+- *2022.09 - present*, Southern University of Science and Technology (SusTech) & Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
+- *2019.09 – 2022.06*, Wuhan University, M.E. in Computer Science.
+- *2014.09 - 2018.06*, Wuhan University, B.E. in Electronic Information Engineering.
 
 <!-- # 📝 Featured Publications
 TODO -->
@@ -44,69 +42,111 @@ TODO -->
 <div class='paper-box-text' markdown="1">
 
 
-[![Static Badge](https://img.shields.io/badge/Conference-ICML'24-blue)]() **MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**.  
-[[paper]](https://arxiv.org/pdf/2405.18786)
-[[code]](https://github.com/HongduanTian/MOKD)
-[[slides]](https://drive.google.com/file/d/1tsftBBdy6YfqIeap_QJ-kh1Ut7sqmdRb/view?usp=sharing)
-[[poster]]()
-[[CN-video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)  
-  **Hongduan Tian**, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han✉️.
-<details>
+[![Static Badge](https://img.shields.io/badge/Conference-ICLR'24-blue)]() **Negative Label Guided OOD Detection with Pretrained Vision-Language Models**. [ICLR 2024, Spotlight (accept rate: 5%)]
+[[paper]](https://arxiv.org/pdf/2403.20078)
+[[code]](https://github.com/tmlr-group/NegLabel)
+<!-- [[slides]](https://drive.google.com/file/d/1tsftBBdy6YfqIeap_QJ-kh1Ut7sqmdRb/view?usp=sharing) -->
+<!-- [[poster]]() -->
+<!-- [[CN-video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)   -->
+  **Xue Jiang**, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng✉️, Bo Han.
+<!-- <details>
 <summary>Quick Introduction</summary>
- In cross-domain few-shot classification, nearest centroid classifier (NCC) aims to learn representations to construct a metric space where few-shot classification can be performed by measuring the similarities between samples and the prototype of each class. An intuition behind NCC is that each sample is pulled closer to the class centroid it belongs to while pushed away from those of other classes. However, in this paper, we find that there exist high similarities between NCC-learned representations of two samples from different classes.<br><br>
-
- In order to address this problem, we propose a bi-level optimization framework, maximizing optimized kernel dependence (MOKD) to learn a set of class-specific representations that match the cluster structures indicated by labeled data of the given task. 
- Specifically, MOKD first optimizes the kernel adopted in Hilbert-Schmidt independence criterion (HSIC) to obtain the optimized kernel HSIC (opt-HSIC) that can capture the dependence more precisely. Then, an optimization problem regarding the opt-HSIC is addressed to simultaneously maximize the dependence between representations and labels and minimize the dependence among all samples.<br><br> 
-
- Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve better generalization performance on unseen domains in most cases but also learn better data representation clusters.
-</details>
+In this paper, we propose a novel post hoc OOD detection method, called NegLabel, which takes a vast number of negative labels from extensive corpus databases. We design a novel scheme for the OOD score collaborated with negative labels. Theoretical analysis helps to understand the mechanism of negative labels. Extensive experiments demonstrate that our method NegLabel achieves state-of-the-art performance on various OOD detection benchmarks and generalizes well on multiple VLM architectures. Furthermore, our method NegLabel exhibits remarkable robustness against diverse domain shifts.
+</details> -->
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/meta_prune.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[![Static Badge](https://img.shields.io/badge/Conference-ECCV'20-blue)]() **Meta-learning with network pruning**.  
-[[paper]](https://arxiv.org/pdf/2007.03219)
-[[code]](https://github.com/HongduanTian/Dense-Sparse-Dense-Reptile)
+[![Static Badge](https://img.shields.io/badge/Conference-ICML'23-blue)]() **Detecting out-of-distribution data through in-distribution class prior**. [ICML 2023]
+[[paper]](https://proceedings.mlr.press/v202/jiang23e/jiang23e.pdf)
+[[code]](https://github.com/tmlr-group/class_prior)
 <!--[[slides]](/_pages/data/slides-neural-atoms.pdf)
 [[poster]](/_pages/data/poster-neural-atoms.pdf)
 [[EN-video]](https://recorder-v3.slideslive.com/?share=92308&s=8e966150-4ba4-41b7-97d3-8ed0c1a1cd0c)
 [[CN-video]](https://www.bilibili.com/video/BV1qH4y1L7mb/?share_source=copy_web&vd_source=65ec14228a98f635bf0406f14c7f8660&t=5342)-->  
-  **Hongduan Tian**✉️, Bo Liu, Xiao-Tong Yuan✉️, Qingshan Liu.
- <details>
+ **Xue Jiang**, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng✉️, Bo Han.
+ <!-- <details>
 <summary>Quick Introduction</summary>
  Meta-learning is a powerful paradigm for few-shot learning. Although with remarkable success witnessed in many applications, the existing optimization based meta-learning models with over-parameterized neural networks have been evidenced to ovetfit on training tasks.<br><br> 
  
  To remedy this deficiency, we propose a network pruning based meta-learning approach for overfitting reduction via explicitly controlling the capacity of network. A uniform concentration analysis reveals the benefit of network capacity constraint for reducing generalization gap of the proposed meta-learner. We have implemented our approach on top of Reptile assembled with two network pruning routines: Dense-Sparse-Dense (DSD) and Iterative Hard Thresholding (IHT).<br><br>
  
  Extensive experimental results on benchmark datasets with different over-parameterized deep networks demonstrate that our method not only effectively alleviates meta-overfitting but also in many cases improves the overall generalization performance when applied to few-shot classification tasks.
-</details>
+</details> -->
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/meta_prune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<!--# 🎖 Awards
-- *2023.11*, Research Excellence Award of HKBU.
-- *2021.06*, Honorary degree of HUST (Top 2%, highest honour for undergrad).
-- *2021.06*, Outstanding Graduate Award of HUST.-->
+[![Static Badge](https://img.shields.io/badge/Conference-AAAI'23-blue)]() **On the stability and generalization of triplet learning**. [AAAI 2023]
+[[paper]](https://arxiv.org/pdf/2302.09815)
+<!-- [[code]](https://github.com/tmlr-group/class_prior) -->
+<!--[[slides]](/_pages/data/slides-neural-atoms.pdf)
+[[poster]](/_pages/data/poster-neural-atoms.pdf)
+[[EN-video]](https://recorder-v3.slideslive.com/?share=92308&s=8e966150-4ba4-41b7-97d3-8ed0c1a1cd0c)
+[[CN-video]](https://www.bilibili.com/video/BV1qH4y1L7mb/?share_source=copy_web&vd_source=65ec14228a98f635bf0406f14c7f8660&t=5342)-->  
+ Jun Chen, Hong Chen✉️,  **Xue Jiang**, Bin Gu, Weifu Li, Tieliang Gong, Feng Zheng
+ <!-- <details>
+<summary>Quick Introduction</summary>
+ Meta-learning is a powerful paradigm for few-shot learning. Although with remarkable success witnessed in many applications, the existing optimization based meta-learning models with over-parameterized neural networks have been evidenced to ovetfit on training tasks.<br><br> 
+ 
+ To remedy this deficiency, we propose a network pruning based meta-learning approach for overfitting reduction via explicitly controlling the capacity of network. A uniform concentration analysis reveals the benefit of network capacity constraint for reducing generalization gap of the proposed meta-learner. We have implemented our approach on top of Reptile assembled with two network pruning routines: Dense-Sparse-Dense (DSD) and Iterative Hard Thresholding (IHT).<br><br>
+ 
+ Extensive experimental results on benchmark datasets with different over-parameterized deep networks demonstrate that our method not only effectively alleviates meta-overfitting but also in many cases improves the overall generalization performance when applied to few-shot classification tasks.
+</details> -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/meta_prune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[![Static Badge](https://img.shields.io/badge/Conference-CVPR'22-blue)]() **Cross-image relational knowledge distillation for semantic segmentation**. [CVPR 2022]
+[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Cross-Image_Relational_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2022_paper.pdf)
+[[code]](https://github.com/winycg/CIRKD)
+<!--[[slides]](/_pages/data/slides-neural-atoms.pdf)
+[[poster]](/_pages/data/poster-neural-atoms.pdf)
+[[EN-video]](https://recorder-v3.slideslive.com/?share=92308&s=8e966150-4ba4-41b7-97d3-8ed0c1a1cd0c)
+[[CN-video]](https://www.bilibili.com/video/BV1qH4y1L7mb/?share_source=copy_web&vd_source=65ec14228a98f635bf0406f14c7f8660&t=5342)-->  
+ Chuanguang Yang, Helong Zhou, Zhulin An✉️, **Xue Jiang**, Yongjun Xu, Qian Zhang
+ <!-- <details>
+<summary>Quick Introduction</summary>
+ Meta-learning is a powerful paradigm for few-shot learning. Although with remarkable success witnessed in many applications, the existing optimization based meta-learning models with over-parameterized neural networks have been evidenced to ovetfit on training tasks.<br><br> 
+ 
+ To remedy this deficiency, we propose a network pruning based meta-learning approach for overfitting reduction via explicitly controlling the capacity of network. A uniform concentration analysis reveals the benefit of network capacity constraint for reducing generalization gap of the proposed meta-learner. We have implemented our approach on top of Reptile assembled with two network pruning routines: Dense-Sparse-Dense (DSD) and Iterative Hard Thresholding (IHT).<br><br>
+ 
+ Extensive experimental results on benchmark datasets with different over-parameterized deep networks demonstrate that our method not only effectively alleviates meta-overfitting but also in many cases improves the overall generalization performance when applied to few-shot classification tasks.
+</details> -->
+</div>
+</div>
+
+# 🎖 Awards
+- Best Research Performance Award, HKBU 2024.05.
+- Research Excellence Award, HKBU 2023.11.
+- Excellent Postgraduate, Wuhan University 2020.
+- 2nd Prize Excellent Academic Scholarship, Wuhan University 2020.
+- Meritorious Winner (9\%), The Interdisciplinary Contest in Modeling 2018.
+- Excellent Student, Wuhan University 2016 & 2017.
+- 3rd Prize Scholarship, Wuhan University 2016 & 2017.
+
 
 <!--💬 Talks
 - *2024.06*, Youth PhD Talk on Trustworthy Machine Learning @AI Time, Online.
 [[Video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)-->
 
 # 💻 Services
-- Conference Reviewer for ICML (22-24), NeurIPS (22-24), ICLR (22-24).
-- Journal Reviewer for TMLR, NEUNET, TNNLS, TPAMI.
+- Conference Reviewer for ICML (22-24), NeurIPS (22-24), ICLR (22-24), MM 24.
+- Journal Reviewer for TMLR, TNNLS.
 
 # 🏫 Teaching
-- *2024 Spring*, TA for COMP7940: Cloud Computing.
+- *2024 Spring*, TA for CS308: Computer Vision, SusTech.
+- *2023 Fall*, TA for CS205: C/C++ Program Design, SusTech.
+- *2019 Fall*, TA for Fundamentals of circuit and electronics, WHU.
 
 # 📖 Experiences
-- *2022.09 - present*, PhD student @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han.
-- *2022.07 - Present*, Research Intern @NVIDIA [NVAITC](https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research), advised by Charles Cheung.
-- *2022.07 - 2023.05*, Research intern @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han and Dr. Feng Liu.
-- *2021.07 - 2022.07*, Algorithm Engineer @ZTE Nanjing Research and Development Center.
+- *2021.05 - 2021.12*, Internship @Horizon Robotics, focusing on self-supervised learning related to object detection.
 
   
 <!-- <div align=center> -->

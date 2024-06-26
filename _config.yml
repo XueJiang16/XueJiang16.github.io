@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hongduan Tian"
-description              : "Focus on Knowledge Transfer and Agent Interaction."
-repository               : "HongduanTian/hongduantian.github.io"
+title                    : "Xue Jiang"
+description              : "Focus on OOD Detection and Trustworthy MLLM."
+repository               : "XueJiang16/xuejiang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hongduan Tian"
+  name             : "Xue Jiang"
   avatar           : "images/avatar.png"
-  bio              : "Ph.D. student at HKBU."
+  bio              : "Joint Ph.D. student at SusTech and HKBU."
   location         :
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=07lUB9kAAAAJ&hl=en"
-  email            : "cshdtian@comp.hkbu.edu.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=ajVvHgwAAAAJ&hl"
+  email            : "csxjiang@comp.hkbu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HongduanTian"
+  github           : "XueJiang16"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "tianhongduan"
+  twitter          : #"tianhongduan"
   vine             :
   weibo            :
   xing             :
