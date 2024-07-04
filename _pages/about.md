@@ -30,7 +30,7 @@ My research interests mainly include **out-of-distribution detection, object hal
 # 📖 Educations
 - *2022.09 - present*, Southern University of Science and Technology (SusTech) & Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
 - *2019.09 – 2022.06*, Wuhan University, M.E. in Computer Science.
-- *2014.09 - 2018.06*, Wuhan University, B.E. in Electronic Information Engineering.
+- *2015.09 - 2019.06*, Wuhan University, B.E. in Electronic Information Engineering.
 
 <!-- # 📝 Featured Publications
 TODO -->
@@ -38,50 +38,40 @@ TODO -->
 # 📝 Publications
 ✉️ Corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/mokd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/neg_label_fig1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-[![Static Badge](https://img.shields.io/badge/Conference-ICLR'24-blue)]() **Negative Label Guided OOD Detection with Pretrained Vision-Language Models**. [ICLR 2024, Spotlight (accept rate: 5%)]
+[![Static Badge](https://img.shields.io/badge/Conference-ICLR'24-blue)]() *Spotlight (Accept rate: 5%)* **Negative Label Guided OOD Detection with Pretrained Vision-Language Models**. 
 [[paper]](https://arxiv.org/pdf/2403.20078)
 [[code]](https://github.com/tmlr-group/NegLabel)
+
 <!-- [[slides]](https://drive.google.com/file/d/1tsftBBdy6YfqIeap_QJ-kh1Ut7sqmdRb/view?usp=sharing) -->
 <!-- [[poster]]() -->
 <!-- [[CN-video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)   -->
   **Xue Jiang**, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng✉️, Bo Han.
-<!-- <details>
-<summary>Quick Introduction</summary>
-In this paper, we propose a novel post hoc OOD detection method, called NegLabel, which takes a vast number of negative labels from extensive corpus databases. We design a novel scheme for the OOD score collaborated with negative labels. Theoretical analysis helps to understand the mechanism of negative labels. Extensive experiments demonstrate that our method NegLabel achieves state-of-the-art performance on various OOD detection benchmarks and generalizes well on multiple VLM architectures. Furthermore, our method NegLabel exhibits remarkable robustness against diverse domain shifts.
-</details> -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/meta_prune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/lt_ood.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[![Static Badge](https://img.shields.io/badge/Conference-ICML'23-blue)]() **Detecting out-of-distribution data through in-distribution class prior**. [ICML 2023]
+[![Static Badge](https://img.shields.io/badge/Conference-ICML'23-blue)]() **Detecting out-of-distribution data through in-distribution class prior**. 
 [[paper]](https://proceedings.mlr.press/v202/jiang23e/jiang23e.pdf)
 [[code]](https://github.com/tmlr-group/class_prior)
+
 <!--[[slides]](/_pages/data/slides-neural-atoms.pdf)
 [[poster]](/_pages/data/poster-neural-atoms.pdf)
 [[EN-video]](https://recorder-v3.slideslive.com/?share=92308&s=8e966150-4ba4-41b7-97d3-8ed0c1a1cd0c)
 [[CN-video]](https://www.bilibili.com/video/BV1qH4y1L7mb/?share_source=copy_web&vd_source=65ec14228a98f635bf0406f14c7f8660&t=5342)-->  
  **Xue Jiang**, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng✉️, Bo Han.
- <!-- <details>
-<summary>Quick Introduction</summary>
- Meta-learning is a powerful paradigm for few-shot learning. Although with remarkable success witnessed in many applications, the existing optimization based meta-learning models with over-parameterized neural networks have been evidenced to ovetfit on training tasks.<br><br> 
- 
- To remedy this deficiency, we propose a network pruning based meta-learning approach for overfitting reduction via explicitly controlling the capacity of network. A uniform concentration analysis reveals the benefit of network capacity constraint for reducing generalization gap of the proposed meta-learner. We have implemented our approach on top of Reptile assembled with two network pruning routines: Dense-Sparse-Dense (DSD) and Iterative Hard Thresholding (IHT).<br><br>
- 
- Extensive experimental results on benchmark datasets with different over-parameterized deep networks demonstrate that our method not only effectively alleviates meta-overfitting but also in many cases improves the overall generalization performance when applied to few-shot classification tasks.
-</details> -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/meta_prune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/aaai.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[![Static Badge](https://img.shields.io/badge/Conference-AAAI'23-blue)]() **On the stability and generalization of triplet learning**. [AAAI 2023]
+[![Static Badge](https://img.shields.io/badge/Conference-AAAI'23-blue)]() **On the stability and generalization of triplet learning**.
 [[paper]](https://arxiv.org/pdf/2302.09815)
 <!-- [[code]](https://github.com/tmlr-group/class_prior) -->
 <!--[[slides]](/_pages/data/slides-neural-atoms.pdf)
@@ -89,21 +79,13 @@ In this paper, we propose a novel post hoc OOD detection method, called NegLabel
 [[EN-video]](https://recorder-v3.slideslive.com/?share=92308&s=8e966150-4ba4-41b7-97d3-8ed0c1a1cd0c)
 [[CN-video]](https://www.bilibili.com/video/BV1qH4y1L7mb/?share_source=copy_web&vd_source=65ec14228a98f635bf0406f14c7f8660&t=5342)-->  
  Jun Chen, Hong Chen✉️,  **Xue Jiang**, Bin Gu, Weifu Li, Tieliang Gong, Feng Zheng
- <!-- <details>
-<summary>Quick Introduction</summary>
- Meta-learning is a powerful paradigm for few-shot learning. Although with remarkable success witnessed in many applications, the existing optimization based meta-learning models with over-parameterized neural networks have been evidenced to ovetfit on training tasks.<br><br> 
- 
- To remedy this deficiency, we propose a network pruning based meta-learning approach for overfitting reduction via explicitly controlling the capacity of network. A uniform concentration analysis reveals the benefit of network capacity constraint for reducing generalization gap of the proposed meta-learner. We have implemented our approach on top of Reptile assembled with two network pruning routines: Dense-Sparse-Dense (DSD) and Iterative Hard Thresholding (IHT).<br><br>
- 
- Extensive experimental results on benchmark datasets with different over-parameterized deep networks demonstrate that our method not only effectively alleviates meta-overfitting but also in many cases improves the overall generalization performance when applied to few-shot classification tasks.
-</details> -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/meta_prune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/kd.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[![Static Badge](https://img.shields.io/badge/Conference-CVPR'22-blue)]() **Cross-image relational knowledge distillation for semantic segmentation**. [CVPR 2022]
+[![Static Badge](https://img.shields.io/badge/Conference-CVPR'22-blue)]() **Cross-image relational knowledge distillation for semantic segmentation**. 
 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Cross-Image_Relational_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2022_paper.pdf)
 [[code]](https://github.com/winycg/CIRKD)
 <!--[[slides]](/_pages/data/slides-neural-atoms.pdf)
@@ -111,14 +93,6 @@ In this paper, we propose a novel post hoc OOD detection method, called NegLabel
 [[EN-video]](https://recorder-v3.slideslive.com/?share=92308&s=8e966150-4ba4-41b7-97d3-8ed0c1a1cd0c)
 [[CN-video]](https://www.bilibili.com/video/BV1qH4y1L7mb/?share_source=copy_web&vd_source=65ec14228a98f635bf0406f14c7f8660&t=5342)-->  
  Chuanguang Yang, Helong Zhou, Zhulin An✉️, **Xue Jiang**, Yongjun Xu, Qian Zhang
- <!-- <details>
-<summary>Quick Introduction</summary>
- Meta-learning is a powerful paradigm for few-shot learning. Although with remarkable success witnessed in many applications, the existing optimization based meta-learning models with over-parameterized neural networks have been evidenced to ovetfit on training tasks.<br><br> 
- 
- To remedy this deficiency, we propose a network pruning based meta-learning approach for overfitting reduction via explicitly controlling the capacity of network. A uniform concentration analysis reveals the benefit of network capacity constraint for reducing generalization gap of the proposed meta-learner. We have implemented our approach on top of Reptile assembled with two network pruning routines: Dense-Sparse-Dense (DSD) and Iterative Hard Thresholding (IHT).<br><br>
- 
- Extensive experimental results on benchmark datasets with different over-parameterized deep networks demonstrate that our method not only effectively alleviates meta-overfitting but also in many cases improves the overall generalization performance when applied to few-shot classification tasks.
-</details> -->
 </div>
 </div>
 
@@ -138,7 +112,7 @@ In this paper, we propose a novel post hoc OOD detection method, called NegLabel
 
 # 💻 Services
 - Conference Reviewer for ICML (22-24), NeurIPS (22-24), ICLR (22-24), MM 24.
-- Journal Reviewer for TMLR, TNNLS.
+- Journal Reviewer for TMLR, TNNLS, JAIR.
 
 # 🏫 Teaching
 - *2024 Spring*, TA for CS308: Computer Vision, SusTech.
@@ -152,5 +126,5 @@ In this paper, we propose a novel post hoc OOD detection method, called NegLabel
 <!-- <div align=center> -->
 <!-- <a href='https://clustrmaps.com/site/1byjf'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=400&t=tt&d=EuVM39DBt0G0cQJh20EJFBL7BHU5A5hzsTXUdCbe7Ic&co=ffffff&ct=808080'/></a> -->
 <!--<a href='https://clustrmaps.com/site/1byjf'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=m&d=EuVM39DBt0G0cQJh20EJFBL7BHU5A5hzsTXUdCbe7Ic&co=ffffff&ct=808080'/></a>-->
-<a href="https://clustrmaps.com/site/1bztd" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=9WmKAuGZx-jp_Cqemh_qyo-Fhw-l77tju_9bukYAC-o&cl=ffffff"></a>
+<!-- <a href="https://clustrmaps.com/site/1bztd" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=9WmKAuGZx-jp_Cqemh_qyo-Fhw-l77tju_9bukYAC-o&cl=ffffff"></a> -->
 <!-- </div> -->

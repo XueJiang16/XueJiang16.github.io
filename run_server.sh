@@ -1,2 +1,2 @@
 export LANG=en_US.UTF-8
-bundle exec jekyll liveserve
+bundle exec jekyll serve -l
