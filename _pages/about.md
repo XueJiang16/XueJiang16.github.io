@@ -18,7 +18,7 @@ redirect_from:
 
 Hi, I am Xue Jiang, a joint Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/) and Southern University of Science and Technology, advised by [Prof. Feng Zheng](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=1&lang=en). In TMLR Group, I am also co-supervised by [Dr. Feng Liu](https://fengliu90.github.io/index.html) and work closely with [Dr. Zhen Fang](https://fang-zhen.github.io/).
 
-My research interests mainly include **out-of-distribution detection, object hallucination in MLLM, and saftety in diffusion models**.
+My research interests mainly include **out-of-distribution detection, trustworthy in MLLM and diffusion models (like hallucination, safety)**.
 
 *Please feel free to [email me](mailto:csxjiang@comp.hkbu.edu.hk) for research, collaborations, or a casual chat.* 
 
@@ -127,5 +127,5 @@ TODO -->
 <!-- <a href='https://clustrmaps.com/site/1byjf'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=400&t=tt&d=EuVM39DBt0G0cQJh20EJFBL7BHU5A5hzsTXUdCbe7Ic&co=ffffff&ct=808080'/></a> -->
 <!--<a href='https://clustrmaps.com/site/1byjf'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=m&d=EuVM39DBt0G0cQJh20EJFBL7BHU5A5hzsTXUdCbe7Ic&co=ffffff&ct=808080'/></a>-->
 <!-- <a href="https://clustrmaps.com/site/1bztd" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=9WmKAuGZx-jp_Cqemh_qyo-Fhw-l77tju_9bukYAC-o&cl=ffffff"></a> -->
-<a href="https://clustrmaps.com/site/1c0c2"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=7PdXNU2gYycCDZGFXoFEuLh8gRdIoqAFS1CtitbXK0g&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1c0ca"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=tlKeZ27YxZNVwB1x4CMdRUy1VkNAOJoPq-lwS9qFggI&cl=ffffff" /></a>
 <!-- </div> -->
